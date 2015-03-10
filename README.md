@@ -2,16 +2,16 @@
 An android library design to converts an image into a pixelated version.Inspired by https://github.com/desandro/close-pixelate .
 The demo images as follow：
 The origin：\\
-![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/orign.jpg)\\
+![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/orign.jpg)
 
 Use Square pixel with size and solution 30：\\
 ![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/square.jpg)
 
 Use Circle pixel：\\
-![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/Circle.jpg)\\
+![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/Circle.jpg)
 
 Use diamond：\\
-![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/diamond.jpg)\\
+![image](https://github.com/qianlvable/ClosePixels/blob/master/demoImage/diamond.jpg)
 
 Usage
 Android studio:
